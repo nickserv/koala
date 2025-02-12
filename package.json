@@ -16,7 +16,7 @@
     "commander": "2",
     "debug": "*",
     "delegates": "1.0.0",
-    "koa": "1.1.2",
+    "koa": "1.7.1",
     "koa-body-parsers": "^1.1.0",
     "koa-cash": "1",
     "koa-compress": "1",
